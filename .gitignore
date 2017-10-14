@@ -1,0 +1,23 @@
+################ Order matters here ################
+### *.txt
+###   !tempfile.txt
+################ Order matters here ################
+
+# Comment
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
+
+# Compiled Source Code
+# Packages and Compressed Files
+# Logs and Databases : Files that changes happen
+# OS generated files
+# User-uploaded assets (images, PDFs, videos)
+
+#https://github.com/github/gitignore
+#https://help.github.com/articles/ignoring-files/
