@@ -3,6 +3,7 @@
 ###   !tempfile.txt
 ################ Order matters here ################
 
+*.txt
 # Comment
 .DS_Store
 *.zip
